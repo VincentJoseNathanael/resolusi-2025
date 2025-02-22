@@ -1,0 +1,1 @@
+- belajar sistem storage seperti sql
