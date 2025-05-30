@@ -1,4 +1,5 @@
 Resolusi 2025
-- Bisa basic web proggramming menggunakan html, css, js, php
+- Bisa basic web proggramming menggunakan html, css, js
 - Bisa phyton 
-- Belajar java + c#, c++ and c
+- Belajar c++
+- Belajar git dan github
